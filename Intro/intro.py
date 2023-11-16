@@ -8,3 +8,7 @@ number = '20';
 
 print(number);
 
+string = 'Text'
+
+print(string);
+
